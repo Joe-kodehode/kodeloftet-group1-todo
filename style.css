@@ -9,11 +9,6 @@
   margin: 3px 0px;
 }
 
-.task-list-item p {
-  width: 20ch;
-  word-wrap: break-word;
-}
-
 .delete-button {
   background-color: red;
   color: white;
